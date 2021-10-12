@@ -1,4 +1,5 @@
-<img src="https://sysma.imtlucca.it/images/illustrations/gummy-programming.svg" min-width="300px" max-width="500px" width="500px" align="right" alt="Development Workspace">
+<br>
+<img src="https://files.catbox.moe/grnwxe.svg" min-width="300px" max-width="500px" width="500px" align="right" alt="Development Workspace">
 
 <div align="left">
   <p><b>Hello!</b> : ] </p>
