@@ -1,4 +1,3 @@
-<br>
 <img src="https://files.catbox.moe/grnwxe.svg" min-width="300px" max-width="500px" width="500px" align="right" alt="Development Workspace">
 
 <div align="left">
