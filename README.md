@@ -3,8 +3,8 @@
 <div align="left">
   <p><b>Hello!</b> : ] </p>
   <p>I'm a <b>software engineer</b> interested primarily in <b><i>web developing</i></b> technologies.</p> 
-  <p>Trying to master <b>Java</b>, learning <b>Elixir</b> and interested in <b>Rust</b>.</p>
-  <p>Working at <a href="https://cers.com.br">CERS</a>.</p>
+  <p>On my way to master <b>Java</b>, learning <b>Elixir</b> and interested in <b>new technologies</b>.</p>
+  <p>Working at <a href="https://www.mjvinnovation.com/pt-br/">MJV Technology & Innovation</a>.</p>
   <p>I'm trying to use and update my github account more often.</p>
   <p>Let's build something together!</p>
   
