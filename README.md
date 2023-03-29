@@ -3,8 +3,8 @@
 <div align="left">
   <p><b>Hello!</b> : ] </p>
   <p>I'm a <b>software engineer</b> interested primarily in <b><i>web developing</i></b> technologies.</p> 
-  <p>On my way to master <b>Java</b>, learning <b>Elixir</b> and interested in <b>new technologies</b>.</p>
-  <p>Working at <a href="https://www.mjvinnovation.com/pt-br/">MJV Technology & Innovation</a>.</p>
+  <p>I love to work with <b>new technologies</b> and to build things from scratch.</p>
+  <p>Currently working at <a href="https://www.mjvinnovation.com/pt-br/">MJV Technology & Innovation</a>.</p>
   <p>I'm trying to use and update my github account more often.</p>
   <p>Let's build something together!</p>
   
@@ -14,7 +14,7 @@
 
 Project name | Main language | Description
 -------------|---------------|-----------
-[Debt Watcher](https://github.com/oliverbot/debts-watcher-api) | Java | A personal project with the goal to help anyone with a lot of credit card debts to pay monthly.
+[Observatório de Projetos de Lei](https://github.com/oliverbot/ProjetosLeisPernambuco) | Python | Monitors the bills created by legislators in Pernambuco, using Artificial Intelligence to make the content of the laws accessible to the general public.
 
 <b>I'm currently working with the following technologies:</b>
 
@@ -40,5 +40,3 @@ Project name | Main language | Description
 [![Linkedin: ruhan-herlisson](https://img.shields.io/badge/-Ruhan%20Herlisson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruhan-herlisson/)](https://www.linkedin.com/in/ruhan-herlisson/)
 [![Gmail Badge](https://img.shields.io/badge/-herlisson.ruh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herlisson.ruh@gmail.com)](mailto:herlisson.ruh@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/oliverbot?label=Follow&style=social)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbot&show_icons=true&locale=en&layout=compact" alt="oliverbot" /></p>
