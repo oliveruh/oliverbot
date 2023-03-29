@@ -2,11 +2,11 @@
 
 <div align="left">
   <p><b>Hello!</b> : ] </p>
-  <p>I'm a <b>software engineer</b> interested primarily in <b><i>web developing</i></b> technologies.</p> 
-  <p>I love to work with <b>new technologies</b> and to build things from scratch.</p>
-  <p>Currently working at <a href="https://www.mjvinnovation.com/pt-br/">MJV Technology & Innovation</a>.</p>
-  <p>I'm trying to use and update my github account more often.</p>
-  <p>Let's build something together!</p>
+  <p>I'm a <b>software engineer</b> specialized in <b><i>web developing</i></b> technologies, but eager to try out <b>every type of thing</b>. I like to study all kinds of technologies and to create all kinds of software.</p> 
+  <p>I love to work with <b>new technologies</b> and specially <b>open source software</b>, contributing and giving back to the community that I owe so much.</p>
+  <p>I'm currently working at <a href="https://www.mjvinnovation.com/pt-br/">MJV Technology & Innovation</a>.</p>
+  <p>If you're interested in collaborating on an exciting project, feel free to reach out.</p>
+  <p>Let's create something awesome together! 🚀</p>
   
 </div>
 
@@ -16,23 +16,35 @@ Project name | Main language | Description
 -------------|---------------|-----------
 [Observatório de Projetos de Lei](https://github.com/oliverbot/ProjetosLeisPernambuco) | Python | Monitors the bills created by legislators in Pernambuco, using Artificial Intelligence to make the content of the laws accessible to the general public.
 
-<b>I'm currently working with the following technologies:</b>
+<b>These are some <i>programming languages</i> I'm pretty confortable with:</b>
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=flat-square&logo=Node.js)
-![Angular](https://img.shields.io/badge/-Angular-181717?style=flat-square&logo=angular) 
-![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript)
-![Vue](https://img.shields.io/badge/-Vue-181717?style=flat-square&logo=vue.js)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
-![Elixir](https://img.shields.io/badge/-Elixir-181717?style=flat-square&logo=elixir)
-![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
+<b>And these are some <i>front-end</i> technologies I've used through my developer experience:</b>
+  
+![Angular](https://img.shields.io/badge/-Angular-181717?style=for-the-badge&logo=angular) 
+![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-181717?style=for-the-badge&logo=vue.js)
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-181717?style=flat-square&logo=spring)
-![Quarkus](https://img.shields.io/badge/-Quarkus-181717?style=flat-square&logo=quarkus)
-![Phoenix](https://img.shields.io/badge/-Phoenix-181717?style=flat-square&logo=elixir)
+<b>And these are some <i>back-end</i> technologies I've used through my developer experience:</b>
+
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-181717?style=for-the-badge&logo=spring)
+![Quarkus](https://img.shields.io/badge/-Quarkus-181717?style=for-the-badge&logo=quarkus)
+![Phoenix](https://img.shields.io/badge/-Phoenix-181717?style=for-the-badge&logo=elixir)
+![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=for-the-badge&logo=Node.js)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+<b>And these are <i>others</i> technologies I've used through my developer experience:</b>
+
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
+
 
 <b>How to reach me:</b>
 <br /><br />
