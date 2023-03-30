@@ -10,7 +10,7 @@
   
 </div>
 
-<b>Bellow are some of my projects:</b>
+<b>Bellow are some of my personal projects:</b>
 
 Project name | Main language | Description
 -------------|---------------|-----------
