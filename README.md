@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverbot&layout=compact&hide=javascript,html,css,ruby"/>
 </a>
 
-## Some of my personal projects:
+## Some of my personal projects
 
 Project name | Main language | Description
 -------------|---------------|-----------
@@ -55,7 +55,7 @@ And these are <i>others</i> technologies and tools I love to use in any project:
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
 
 
-## How to reach me:
+## How to reach me
 
 ![Dev.to blog](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=dev.to&logoColor=white)
 [![Linkedin: ruhan-herlisson](https://img.shields.io/badge/-Ruhan%20Herlisson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruhan-herlisson/)](https://www.linkedin.com/in/ruhan-herlisson/)
