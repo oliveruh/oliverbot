@@ -10,13 +10,22 @@
   
 </div>
 
-<b>Bellow are some of my personal projects:</b>
+## My stats here at GitHub
+
+<a href="https://github.com/JoaoHenrique9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliverbot&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverbot&layout=compact&hide=javascript,html,css,ruby"/>
+</a>
+
+## Some of my personal projects:
 
 Project name | Main language | Description
 -------------|---------------|-----------
 [Observatório de Projetos de Lei](https://github.com/oliverbot/ProjetosLeisPernambuco) | Python | Monitors the bills created by legislators in Pernambuco, using Artificial Intelligence to make the content of the laws accessible to the general public.
 
-<b>These are some <i>programming languages</i> I'm pretty confortable with:</b>
+## A brief summmary of my technical knowledge
+
+These are some <i>programming languages</i> I'm pretty confortable with:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,13 +33,13 @@ Project name | Main language | Description
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-<b>And these are some <i>front-end</i> technologies I've used through my developer experience:</b>
+And these are some <i>front-end</i> technologies I've used through my developer experience:
   
 ![Angular](https://img.shields.io/badge/-Angular-181717?style=for-the-badge&logo=angular) 
 ![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-181717?style=for-the-badge&logo=vue.js)
 
-<b>And these are some <i>back-end</i> technologies I've used through my developer experience:</b>
+And these are some <i>back-end</i> technologies I can never stop using:
 
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-181717?style=for-the-badge&logo=spring)
@@ -39,16 +48,17 @@ Project name | Main language | Description
 ![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=for-the-badge&logo=Node.js)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<b>And these are <i>others</i> technologies I've used through my developer experience:</b>
+And these are <i>others</i> technologies and tools I love to use in any project:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
 
 
-<b>How to reach me:</b>
-<br /><br />
+## How to reach me:
+
 ![Dev.to blog](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=dev.to&logoColor=white)
 [![Linkedin: ruhan-herlisson](https://img.shields.io/badge/-Ruhan%20Herlisson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruhan-herlisson/)](https://www.linkedin.com/in/ruhan-herlisson/)
 [![Gmail Badge](https://img.shields.io/badge/-herlisson.ruh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herlisson.ruh@gmail.com)](mailto:herlisson.ruh@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/oliverbot?label=Follow&style=social)
+
