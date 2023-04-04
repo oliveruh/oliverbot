@@ -13,8 +13,8 @@
 ## My stats here at GitHub
 
 <a href="https://github.com/JoaoHenrique9">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oliverbot&show_icons=true&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oliverbot&layout=compact&hide=javascript,html,css,ruby"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oliverbot&show_icons=true&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oliverbot&layout=compact&hide=javascript,html,css,ruby"/>
 </a>
 
 ## Some of my personal projects
